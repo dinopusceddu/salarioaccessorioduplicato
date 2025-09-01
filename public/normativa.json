@@ -1,0 +1,75 @@
+{
+  "valori_pro_capite": {
+    "art67_ccnl_2018": 83.20,
+    "art79_ccnl_2022_b": 84.50
+  },
+  "limiti": {
+    "incidenza_salario_accessorio": 8,
+    "incremento_virtuosi_dl25_2025": 0.48,
+    "incremento_pnrr_dl13_2023": 0.05
+  },
+  "riferimenti_normativi": {
+    "art23_dlgs75_2017": "Art. 23, c.2, D.Lgs. 75/2017",
+    "art33_dl34_2019": "Art. 33, c.2, D.L. 34/2019",
+    "art14_dl25_2025": "Art. 14, c.1-bis, D.L. 25/2025 (ex DL Energia)",
+    "dm_17_03_2020": "DM 17 Marzo 2020 (Sostenibilità Spesa Personale)",
+    "l296_06_c557": "Art. 1, c. 557, L. 296/2006 (Tetto Spesa Personale)",
+    "art67_ccnl2018": "Art. 67, c.2, CCNL Funzioni Locali 2016-2018",
+    "art79_ccnl2022": "Art. 79, CCNL Funzioni Locali 2019-2021",
+    "art80_ccnl2022": "Art. 80, CCNL Funzioni Locali 2019-2021",
+    "art97_ccnl2022": "Art. 97, CCNL Funzioni Locali 2019-2021",
+    "art98_ccnl2022": "Art. 98, c.1, lett. c), CCNL Funzioni Locali 2019-2021",
+    "art100_ccnl2022": "Art. 100, CCNL Funzioni Locali 2019-2021",
+    "art7_c4_u_ccnl2022": "Art. 7 c. 4 lett. u) CCNL Funzioni Locali 16.11.2022",
+    "art45_dlgs36_2023": "Art. 45 D.Lgs. 36/2023 (ex Art. 113 D.Lgs. 50/2016)",
+    "art208_cds": "Art. 208 Codice della Strada",
+    "art8_dl13_2023": "Art. 8, c.3-4, D.L. 13/2023",
+    "ccnl_14092000_art24c1": "Art. 24, c.1, CCNL 14.09.2000",
+    "art17_ccnl2022": "Art. 17 CCNL Funzioni Locali 16.11.2022",
+    "art23_c5_ccnl2022": "Art. 23 c.5 CCNL Funzioni Locali 16.11.2022",
+    "ccnl_seg_01032011_art3c6": "Art. 3 c. 6 CCNL Segretari 01.03.2011",
+    "ccnl_seg_16072024_art58c1": "Art. 58 c. 1 CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art60c1": "Art. 60 c. 1 CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art60c3": "Art. 60 c. 3 CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art60c5": "Art. 60 c. 5 CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art56c1g": "Art. 56 c. 1 lett. g) CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art56c1h": "Art. 56 c. 1 lett. h) CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art56c1f": "Art. 56 c. 1 lett. f) CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art56c1i": "Art. 56 c. 1 lett. i) CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art61c2": "Art. 61 c. 2 CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art61c2bis": "Art. 61 c. 2-bis CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art61c2ter": "Art. 61 c. 2-ter CCNL Segretari 16.07.2024",
+    "ccnl_seg_16072024_art61c3": "Art. 61 c. 3 CCNL Segretari 16.07.2024",
+    "ccnl_dir_17122020_art57c2a": "Art. 57 c.2 lett. a) CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_17122020_art56c1": "Art. 56 c.1 CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_17122020_art57c2c": "Art. 57 c.2 lett. c) CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_17122020_art57c2e": "Art. 57 c.2 lett. e) CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_16072024_art39c1": "Art. 39 c.1 CCNL Dirigenza FL 16.07.2024",
+    "ccnl_dir_17122020_art57c2b": "Art. 57 c.2 lett. b) CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_17122020_art57c2d": "Art. 57 c.2 lett. d) CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_17122020_art57c3": "Art. 57 c.3 CCNL Dirigenza FL 17.12.2020",
+    "ccnl_dir_16072024_art39c2": "Art. 39 c.2 CCNL Dirigenza FL 16.07.2024",
+    "dl16_2014_art4": "Art. 4 D.L. 16/2014",
+    "incremento_decreto_pa": "Incremento potenziale da DL PA / Misure Urgenti"
+  },
+  "progression_economic_values": {
+    "FUNZIONARIO_EQ": {
+      "D7": 9942.67, "D6": 8268.51, "D5": 6096.04, "D4": 4808.21, "D3": 3636.30, "D2": 1186.92, "D1": 0.00
+    },
+    "ISTRUTTORE": {
+      "C6": 3833.81, "C5": 2882.89, "C4": 1962.61, "C3": 1201.36, "C2": 546.42, "C1": 0.00
+    },
+    "OPERATORE_ESPERTO": {
+      "B8": 3891.41, "B7": 3101.99, "B6": 2236.23, "B5": 1842.18, "B4": 1475.56, "B3": 1159.74, "B2": 337.85, "B1": 0.00
+    },
+    "OPERATORE": {
+      "A6": 1768.60, "A5": 1408.93, "A4": 1001.12, "A3": 659.65, "A2": 258.85, "A1": 0.00
+    }
+  },
+  "indennita_comparto_values": {
+    "OPERATORE": 563.40,
+    "OPERATORE_ESPERTO": 497.52,
+    "ISTRUTTORE": 426.96,
+    "FUNZIONARIO_EQ": 351.72
+  }
+}

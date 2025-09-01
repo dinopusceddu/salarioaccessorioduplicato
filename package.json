@@ -1,0 +1,8 @@
+{
+  "name": "salario-accessorio-funzioni-locali",
+  "version": "1.0.0",
+  "description": "Applicazione per la gestione e il calcolo del Fondo delle Risorse Decentrate per gli Enti Locali, con verifiche di conformità normativa e generazione di report.",
+  "dependencies": {
+    "zustand": "^4.5.4"
+  }
+}
